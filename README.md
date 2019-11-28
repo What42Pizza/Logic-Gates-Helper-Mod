@@ -1,6 +1,6 @@
 # Logic Gates Helper Mod
 
-This mod is designed to help users create better logi gates by changing vanilla blocks.
+This mod is designed to help users create better logic gates by changing vanilla blocks.
 
 #### Changed this mod makes:
 
